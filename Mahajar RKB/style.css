@@ -1,0 +1,63 @@
+body{
+    background-image: url("https://images8.alphacoders.com/572/572711.jpg");
+    background-size: cover;
+    border: none;
+    padding-top: 17em;
+    padding-bottom: 5em;
+    padding-top: 5em;
+    margin-right: 22em;
+    margin-left: 26em;
+    margin-top: 8em;
+    background-color: gray;
+    
+    
+    
+    
+}  
+ .row{
+    display: flex;
+    justify-content: center;
+    
+    
+   
+ }
+
+ h1{
+    font-family:Georgia, 'Times New Roeman', Times, serif;
+    color: rgb(122, 122, 122);
+ 
+  
+ }
+
+.all{
+    padding: 3px;
+    margin-bottom: 4px;
+    width: 100%;
+    
+    
+ }
+
+ button{
+    padding: 0.5em;
+    margin-top: 1em;
+    margin-left: 4em;
+
+ }
+
+ 
+ 
+ button:hover{
+   
+    cursor: pointer;
+
+   }
+   a{
+    text-decoration: none;
+   }
+
+   .sin{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    text-overflow: initial;
+   }
+   
